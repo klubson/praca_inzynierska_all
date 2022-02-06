@@ -1,0 +1,1726 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mlt LC_NUMERIC="C" producer="main_bin" version="7.3.0" root="C:/Users/torre/Desktop/praca_inzynierska_all/prezentacja na obronę/filmik/wersja 2">
+ <profile frame_rate_num="24" sample_aspect_num="1" display_aspect_den="40" colorspace="709" progressive="1" description="1896x960 24.00fps" display_aspect_num="79" frame_rate_den="1" width="1896" height="960" sample_aspect_den="1"/>
+ <producer id="producer0" in="00:00:00.000" out="00:01:40.542">
+  <property name="length">2414</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/torre/Desktop/praca_inzynierska_all/prezentacja na obronę/nagrania/nowe/admin_cz1.mkv</property>
+  <property name="audio_index">1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="seekable">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">2</property>
+  <property name="kdenlive:file_size">4356638</property>
+  <property name="kdenlive:file_hash">b611a571a6c86024839c073d4a42f70f</property>
+  <property name="kdenlive:audio_max1">1</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">24</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">0</property>
+  <property name="meta.media.0.codec.width">1896</property>
+  <property name="meta.media.0.codec.height">960</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">0</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">0</property>
+  <property name="meta.attr.0.stream.ENCODER.markup">Lavc58.134.100 libx264</property>
+  <property name="meta.attr.0.stream.DURATION.markup">00:01:40.585000000</property>
+  <property name="meta.media.1.stream.type">audio</property>
+  <property name="meta.media.1.codec.sample_fmt">fltp</property>
+  <property name="meta.media.1.codec.sample_rate">48000</property>
+  <property name="meta.media.1.codec.channels">1</property>
+  <property name="meta.media.1.codec.name">aac</property>
+  <property name="meta.media.1.codec.long_name">AAC (Advanced Audio Coding)</property>
+  <property name="meta.media.1.codec.bit_rate">0</property>
+  <property name="meta.attr.1.stream.ENCODER.markup">Lavc58.134.100 libfdk_aac</property>
+  <property name="meta.attr.1.stream.DURATION.markup">00:01:40.565000000</property>
+  <property name="meta.attr.COPYRIGHT.markup">iSpringSolutions</property>
+  <property name="meta.attr.ENCODER.markup">Lavf58.76.100</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="meta.media.frame_rate_num">24</property>
+  <property name="meta.media.frame_rate_den">1</property>
+  <property name="meta.media.colorspace">709</property>
+  <property name="meta.media.color_trc">2</property>
+  <property name="meta.media.has_b_frames">2</property>
+  <property name="meta.media.width">1896</property>
+  <property name="meta.media.height">960</property>
+  <property name="meta.media.color_range">mpeg</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+ </producer>
+ <producer id="producer1" in="00:00:00.000" out="00:01:07.208">
+  <property name="length">1614</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/torre/Desktop/praca_inzynierska_all/prezentacja na obronę/nagrania/nowe/admin_cz2.mkv</property>
+  <property name="audio_index">1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="seekable">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">3</property>
+  <property name="kdenlive:file_size">4600949</property>
+  <property name="kdenlive:file_hash">830dd92abde8b4d985d63c8fe1932bcc</property>
+  <property name="kdenlive:audio_max1">1</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">24</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">0</property>
+  <property name="meta.media.0.codec.width">1894</property>
+  <property name="meta.media.0.codec.height">960</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">0</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">0</property>
+  <property name="meta.attr.0.stream.ENCODER.markup">Lavc58.134.100 libx264</property>
+  <property name="meta.attr.0.stream.DURATION.markup">00:01:07.252000000</property>
+  <property name="meta.media.1.stream.type">audio</property>
+  <property name="meta.media.1.codec.sample_fmt">fltp</property>
+  <property name="meta.media.1.codec.sample_rate">48000</property>
+  <property name="meta.media.1.codec.channels">1</property>
+  <property name="meta.media.1.codec.name">aac</property>
+  <property name="meta.media.1.codec.long_name">AAC (Advanced Audio Coding)</property>
+  <property name="meta.media.1.codec.bit_rate">0</property>
+  <property name="meta.attr.1.stream.ENCODER.markup">Lavc58.134.100 libfdk_aac</property>
+  <property name="meta.attr.1.stream.DURATION.markup">00:01:07.242000000</property>
+  <property name="meta.attr.COPYRIGHT.markup">iSpringSolutions</property>
+  <property name="meta.attr.ENCODER.markup">Lavf58.76.100</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="meta.media.frame_rate_num">24</property>
+  <property name="meta.media.frame_rate_den">1</property>
+  <property name="meta.media.colorspace">709</property>
+  <property name="meta.media.color_trc">2</property>
+  <property name="meta.media.has_b_frames">2</property>
+  <property name="meta.media.width">1894</property>
+  <property name="meta.media.height">960</property>
+  <property name="meta.media.color_range">mpeg</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="kdenlive:markers">[
+]
+</property>
+ </producer>
+ <producer id="producer2" in="00:00:00.000" out="00:01:06.375">
+  <property name="length">1594</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/torre/Desktop/praca_inzynierska_all/prezentacja na obronę/nagrania/nowe/admin_cz3.mkv</property>
+  <property name="audio_index">1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="seekable">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">4</property>
+  <property name="kdenlive:file_size">4186294</property>
+  <property name="kdenlive:file_hash">102da62cbc7b57f868b322203a9c6ce7</property>
+  <property name="kdenlive:audio_max1">1</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">24</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">0</property>
+  <property name="meta.media.0.codec.width">1894</property>
+  <property name="meta.media.0.codec.height">960</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">0</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">0</property>
+  <property name="meta.attr.0.stream.ENCODER.markup">Lavc58.134.100 libx264</property>
+  <property name="meta.attr.0.stream.DURATION.markup">00:01:06.418000000</property>
+  <property name="meta.media.1.stream.type">audio</property>
+  <property name="meta.media.1.codec.sample_fmt">fltp</property>
+  <property name="meta.media.1.codec.sample_rate">48000</property>
+  <property name="meta.media.1.codec.channels">1</property>
+  <property name="meta.media.1.codec.name">aac</property>
+  <property name="meta.media.1.codec.long_name">AAC (Advanced Audio Coding)</property>
+  <property name="meta.media.1.codec.bit_rate">0</property>
+  <property name="meta.attr.1.stream.ENCODER.markup">Lavc58.134.100 libfdk_aac</property>
+  <property name="meta.attr.1.stream.DURATION.markup">00:01:06.389000000</property>
+  <property name="meta.attr.COPYRIGHT.markup">iSpringSolutions</property>
+  <property name="meta.attr.ENCODER.markup">Lavf58.76.100</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="meta.media.frame_rate_num">24</property>
+  <property name="meta.media.frame_rate_den">1</property>
+  <property name="meta.media.colorspace">709</property>
+  <property name="meta.media.color_trc">2</property>
+  <property name="meta.media.has_b_frames">2</property>
+  <property name="meta.media.width">1894</property>
+  <property name="meta.media.height">960</property>
+  <property name="meta.media.color_range">mpeg</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="kdenlive:markers">[
+    {
+        "comment": "Marker",
+        "pos": 515,
+        "type": 0
+    }
+]
+</property>
+ </producer>
+ <producer id="producer3" in="00:00:00.000" out="00:02:00.042">
+  <property name="length">2882</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/torre/Desktop/praca_inzynierska_all/prezentacja na obronę/nagrania/nowe/glosowanie.mkv</property>
+  <property name="audio_index">1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="seekable">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">5</property>
+  <property name="kdenlive:file_size">6761724</property>
+  <property name="kdenlive:file_hash">2362428652ba44c3d9964b4e5b5da59c</property>
+  <property name="kdenlive:audio_max1">1</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">24</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">0</property>
+  <property name="meta.media.0.codec.width">1894</property>
+  <property name="meta.media.0.codec.height">960</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">0</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">0</property>
+  <property name="meta.attr.0.stream.ENCODER.markup">Lavc58.134.100 libx264</property>
+  <property name="meta.attr.0.stream.DURATION.markup">00:02:00.085000000</property>
+  <property name="meta.media.1.stream.type">audio</property>
+  <property name="meta.media.1.codec.sample_fmt">fltp</property>
+  <property name="meta.media.1.codec.sample_rate">48000</property>
+  <property name="meta.media.1.codec.channels">1</property>
+  <property name="meta.media.1.codec.name">aac</property>
+  <property name="meta.media.1.codec.long_name">AAC (Advanced Audio Coding)</property>
+  <property name="meta.media.1.codec.bit_rate">0</property>
+  <property name="meta.attr.1.stream.ENCODER.markup">Lavc58.134.100 libfdk_aac</property>
+  <property name="meta.attr.1.stream.DURATION.markup">00:02:00.064000000</property>
+  <property name="meta.attr.COPYRIGHT.markup">iSpringSolutions</property>
+  <property name="meta.attr.ENCODER.markup">Lavf58.76.100</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="meta.media.frame_rate_num">24</property>
+  <property name="meta.media.frame_rate_den">1</property>
+  <property name="meta.media.colorspace">709</property>
+  <property name="meta.media.color_trc">2</property>
+  <property name="meta.media.has_b_frames">2</property>
+  <property name="meta.media.width">1894</property>
+  <property name="meta.media.height">960</property>
+  <property name="meta.media.color_range">mpeg</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+ </producer>
+ <producer id="producer4" in="00:00:00.000" out="00:02:04.375">
+  <property name="length">2986</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/torre/Desktop/praca_inzynierska_all/prezentacja na obronę/nagrania/nowe/glosowanie_cd.mkv</property>
+  <property name="audio_index">1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="seekable">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">6</property>
+  <property name="kdenlive:file_size">7245225</property>
+  <property name="kdenlive:file_hash">a798a8c083eb96ffc11578ab1cc059dc</property>
+  <property name="kdenlive:audio_max1">1</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">24</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">0</property>
+  <property name="meta.media.0.codec.width">1894</property>
+  <property name="meta.media.0.codec.height">960</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">0</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">0</property>
+  <property name="meta.attr.0.stream.ENCODER.markup">Lavc58.134.100 libx264</property>
+  <property name="meta.attr.0.stream.DURATION.markup">00:02:04.418000000</property>
+  <property name="meta.media.1.stream.type">audio</property>
+  <property name="meta.media.1.codec.sample_fmt">fltp</property>
+  <property name="meta.media.1.codec.sample_rate">48000</property>
+  <property name="meta.media.1.codec.channels">1</property>
+  <property name="meta.media.1.codec.name">aac</property>
+  <property name="meta.media.1.codec.long_name">AAC (Advanced Audio Coding)</property>
+  <property name="meta.media.1.codec.bit_rate">0</property>
+  <property name="meta.attr.1.stream.ENCODER.markup">Lavc58.134.100 libfdk_aac</property>
+  <property name="meta.attr.1.stream.DURATION.markup">00:02:04.373000000</property>
+  <property name="meta.attr.COPYRIGHT.markup">iSpringSolutions</property>
+  <property name="meta.attr.ENCODER.markup">Lavf58.76.100</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="meta.media.frame_rate_num">24</property>
+  <property name="meta.media.frame_rate_den">1</property>
+  <property name="meta.media.colorspace">709</property>
+  <property name="meta.media.color_trc">2</property>
+  <property name="meta.media.has_b_frames">2</property>
+  <property name="meta.media.width">1894</property>
+  <property name="meta.media.height">960</property>
+  <property name="meta.media.color_range">mpeg</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="kdenlive:markers">[
+    {
+        "comment": "początek wycięcia",
+        "pos": 560,
+        "type": 0
+    },
+    {
+        "comment": "koniec wycięcia",
+        "pos": 914,
+        "type": 0
+    },
+    {
+        "comment": "początek wycięcia",
+        "pos": 2857,
+        "type": 0
+    }
+]
+</property>
+ </producer>
+ <producer id="producer5" in="00:00:00.000" out="00:00:16.375">
+  <property name="length">394</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/torre/Desktop/praca_inzynierska_all/prezentacja na obronę/nagrania/nowe/glosowanie_wyniki.mkv</property>
+  <property name="audio_index">1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="seekable">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">7</property>
+  <property name="kdenlive:file_size">1165030</property>
+  <property name="kdenlive:file_hash">07b74fc86cadeb540ce303589d26ce47</property>
+  <property name="kdenlive:audio_max1">1</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">24</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">0</property>
+  <property name="meta.media.0.codec.width">1894</property>
+  <property name="meta.media.0.codec.height">960</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">0</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">0</property>
+  <property name="meta.attr.0.stream.ENCODER.markup">Lavc58.134.100 libx264</property>
+  <property name="meta.attr.0.stream.DURATION.markup">00:00:16.418000000</property>
+  <property name="meta.media.1.stream.type">audio</property>
+  <property name="meta.media.1.codec.sample_fmt">fltp</property>
+  <property name="meta.media.1.codec.sample_rate">48000</property>
+  <property name="meta.media.1.codec.channels">1</property>
+  <property name="meta.media.1.codec.name">aac</property>
+  <property name="meta.media.1.codec.long_name">AAC (Advanced Audio Coding)</property>
+  <property name="meta.media.1.codec.bit_rate">0</property>
+  <property name="meta.attr.1.stream.ENCODER.markup">Lavc58.134.100 libfdk_aac</property>
+  <property name="meta.attr.1.stream.DURATION.markup">00:00:16.384000000</property>
+  <property name="meta.attr.COPYRIGHT.markup">iSpringSolutions</property>
+  <property name="meta.attr.ENCODER.markup">Lavf58.76.100</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="meta.media.frame_rate_num">24</property>
+  <property name="meta.media.frame_rate_den">1</property>
+  <property name="meta.media.colorspace">709</property>
+  <property name="meta.media.color_trc">2</property>
+  <property name="meta.media.has_b_frames">2</property>
+  <property name="meta.media.width">1894</property>
+  <property name="meta.media.height">960</property>
+  <property name="meta.media.color_range">mpeg</property>
+ </producer>
+ <producer id="producer6" in="00:00:00.000" out="00:00:16.792">
+  <property name="length">404</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/torre/Desktop/praca_inzynierska_all/prezentacja na obronę/nagrania/nowe/glosowanie_wyniki_ciemne.mkv</property>
+  <property name="audio_index">1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="seekable">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">8</property>
+  <property name="kdenlive:file_size">1427200</property>
+  <property name="kdenlive:file_hash">2bdd3747cbc0c359dbe4d1bf03e573b4</property>
+  <property name="kdenlive:audio_max1">1</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">24</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">0</property>
+  <property name="meta.media.0.codec.width">1894</property>
+  <property name="meta.media.0.codec.height">960</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">0</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">0</property>
+  <property name="meta.attr.0.stream.ENCODER.markup">Lavc58.134.100 libx264</property>
+  <property name="meta.attr.0.stream.DURATION.markup">00:00:16.835000000</property>
+  <property name="meta.media.1.stream.type">audio</property>
+  <property name="meta.media.1.codec.sample_fmt">fltp</property>
+  <property name="meta.media.1.codec.sample_rate">48000</property>
+  <property name="meta.media.1.codec.channels">1</property>
+  <property name="meta.media.1.codec.name">aac</property>
+  <property name="meta.media.1.codec.long_name">AAC (Advanced Audio Coding)</property>
+  <property name="meta.media.1.codec.bit_rate">0</property>
+  <property name="meta.attr.1.stream.ENCODER.markup">Lavc58.134.100 libfdk_aac</property>
+  <property name="meta.attr.1.stream.DURATION.markup">00:00:16.810000000</property>
+  <property name="meta.attr.COPYRIGHT.markup">iSpringSolutions</property>
+  <property name="meta.attr.ENCODER.markup">Lavf58.76.100</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="meta.media.frame_rate_num">24</property>
+  <property name="meta.media.frame_rate_den">1</property>
+  <property name="meta.media.colorspace">709</property>
+  <property name="meta.media.color_trc">2</property>
+  <property name="meta.media.has_b_frames">2</property>
+  <property name="meta.media.width">1894</property>
+  <property name="meta.media.height">960</property>
+  <property name="meta.media.color_range">mpeg</property>
+ </producer>
+ <producer id="producer7" in="00:00:00.000" out="00:00:19.042">
+  <property name="length">458</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/torre/Desktop/praca_inzynierska_all/prezentacja na obronę/nagrania/nowe/wykres.mkv</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">24</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">0</property>
+  <property name="meta.media.0.codec.width">1896</property>
+  <property name="meta.media.0.codec.height">962</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">0</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">0</property>
+  <property name="meta.attr.0.stream.ENCODER.markup">Lavc58.134.100 libx264</property>
+  <property name="meta.attr.0.stream.DURATION.markup">00:00:19.063000000</property>
+  <property name="meta.media.1.stream.type">audio</property>
+  <property name="meta.media.1.codec.sample_fmt">fltp</property>
+  <property name="meta.media.1.codec.sample_rate">48000</property>
+  <property name="meta.media.1.codec.channels">1</property>
+  <property name="meta.media.1.codec.name">aac</property>
+  <property name="meta.media.1.codec.long_name">AAC (Advanced Audio Coding)</property>
+  <property name="meta.media.1.codec.bit_rate">0</property>
+  <property name="meta.attr.1.stream.ENCODER.markup">Lavc58.134.100 aac</property>
+  <property name="meta.attr.1.stream.DURATION.markup">00:00:19.050000000</property>
+  <property name="meta.attr.COPYRIGHT.markup">iSpringSolutions</property>
+  <property name="meta.attr.ENCODER.markup">Lavf58.76.100</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="audio_index">1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="meta.media.frame_rate_num">24</property>
+  <property name="meta.media.frame_rate_den">1</property>
+  <property name="meta.media.colorspace">709</property>
+  <property name="meta.media.color_trc">2</property>
+  <property name="meta.media.has_b_frames">2</property>
+  <property name="meta.media.width">1896</property>
+  <property name="meta.media.height">962</property>
+  <property name="meta.media.color_range">mpeg</property>
+  <property name="kdenlive:id">9</property>
+  <property name="kdenlive:file_size">2589590</property>
+  <property name="kdenlive:file_hash">414894deca6e991e67b6d4bb2f3222f6</property>
+  <property name="kdenlive:audio_max1">1</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+ </producer>
+ <producer id="producer8" in="00:00:00.000" out="00:00:04.958">
+  <property name="length">120</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:duration">120</property>
+  <property name="kdenlive:clipname">Idea użytkow...</property>
+  <property name="xmldata">&lt;kdenlivetitle duration="120" LC_NUMERIC="C" width="1896" height="960" out="119">
+ &lt;item type="QGraphicsTextItem" z-index="0">
+  &lt;position x="579" y="430">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="100" font="Lucida Handwriting" letter-spacing="0" font-pixel-size="70" font-italic="0" typewriter="0;2;1;0;0" alignment="2" font-weight="50" box-width="737" font-color="0,0,255,255">Idea użytkowania&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1896,960"/>
+ &lt;endviewport rect="0,0,1896,960"/>
+ &lt;background color="255,255,0,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">11</property>
+  <property name="kdenlive:file_hash">8294efe2548f8d7567bd48b4b30fd3e7</property>
+  <property name="force_reload">0</property>
+  <property name="meta.media.width">1896</property>
+  <property name="meta.media.height">960</property>
+ </producer>
+ <producer id="producer9" in="00:00:00.000" out="00:00:04.958">
+  <property name="length">00:00:05.000</property>
+  <property name="eof">pause</property>
+  <property name="resource">0xffff80ff</property>
+  <property name="aspect_ratio">1</property>
+  <property name="mlt_service">color</property>
+  <property name="kdenlive:clipname">Color Clip</property>
+  <property name="kdenlive:duration">00:00:05.000</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">12</property>
+  <property name="kdenlive:file_hash">a82c313aa597e4dac6baec70a2d51912</property>
+  <property name="mlt_image_format">rgb24</property>
+ </producer>
+ <producer id="producer10" in="00:00:00.000" out="00:00:04.958">
+  <property name="length">120</property>
+  <property name="eof">pause</property>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:duration">120</property>
+  <property name="kdenlive:clipname">Prezentacja ...</property>
+  <property name="xmldata">&lt;kdenlivetitle duration="120" LC_NUMERIC="C" width="1896" height="960" out="119">
+ &lt;item type="QGraphicsTextItem" z-index="0">
+  &lt;position x="579" y="430">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="98" font="Lucida Handwriting" letter-spacing="0" font-pixel-size="70" font-italic="0" typewriter="0;2;1;0;0" alignment="2" font-weight="50" box-width="833" font-color="0,0,255,255">Prezentacja wyników&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1896,960"/>
+ &lt;endviewport rect="0,0,1896,960"/>
+ &lt;background color="255,255,0,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">13</property>
+  <property name="kdenlive:file_hash">a637fa28eef9def46f74a0406142fd8f</property>
+  <property name="force_reload">0</property>
+  <property name="meta.media.width">1896</property>
+  <property name="meta.media.height">960</property>
+ </producer>
+ <producer id="producer11" in="00:00:00.000" out="00:00:04.958">
+  <property name="length">120</property>
+  <property name="eof">pause</property>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:duration">120</property>
+  <property name="kdenlive:clipname">Panel admini...</property>
+  <property name="xmldata">&lt;kdenlivetitle duration="120" LC_NUMERIC="C" width="1896" height="960" out="119">
+ &lt;item type="QGraphicsTextItem" z-index="0">
+  &lt;position x="579" y="430">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="98" font="Lucida Handwriting" letter-spacing="0" font-pixel-size="70" font-italic="0" typewriter="0;2;1;0;0" alignment="2" font-weight="50" box-width="899" font-color="0,0,255,255">Panel administratora&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1896,960"/>
+ &lt;endviewport rect="0,0,1896,960"/>
+ &lt;background color="255,255,0,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">14</property>
+  <property name="kdenlive:file_hash">ffbf1fc09547d06bcb26929cd45d9988</property>
+  <property name="force_reload">0</property>
+  <property name="meta.media.width">1896</property>
+  <property name="meta.media.height">960</property>
+ </producer>
+ <producer id="producer12" in="00:00:00.000" out="00:00:04.958">
+  <property name="length">120</property>
+  <property name="eof">pause</property>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:duration">120</property>
+  <property name="kdenlive:clipname">Obsługa głos...</property>
+  <property name="xmldata">&lt;kdenlivetitle duration="120" LC_NUMERIC="C" width="1896" height="960" out="119">
+ &lt;item type="QGraphicsTextItem" z-index="0">
+  &lt;position x="579" y="430">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="100" font="Lucida Handwriting" letter-spacing="0" font-pixel-size="70" font-italic="0" typewriter="0;2;1;0;0" alignment="2" font-weight="50" box-width="685" font-color="0,0,255,255">Obsługa głosowań&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1896,960"/>
+ &lt;endviewport rect="0,0,1896,960"/>
+ &lt;background color="255,255,0,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">15</property>
+  <property name="kdenlive:file_hash">50fb4df72b25c68aa5fa1fb154170f6a</property>
+  <property name="force_reload">0</property>
+  <property name="meta.media.width">1896</property>
+  <property name="meta.media.height">960</property>
+ </producer>
+ <playlist id="main_bin">
+  <property name="kdenlive:docproperties.activeTrack">2</property>
+  <property name="kdenlive:docproperties.audioChannels">2</property>
+  <property name="kdenlive:docproperties.audioTarget">-1</property>
+  <property name="kdenlive:docproperties.disablepreview">0</property>
+  <property name="kdenlive:docproperties.documentid">1644021864427</property>
+  <property name="kdenlive:docproperties.enableTimelineZone">0</property>
+  <property name="kdenlive:docproperties.enableexternalproxy">0</property>
+  <property name="kdenlive:docproperties.enableproxy">0</property>
+  <property name="kdenlive:docproperties.externalproxyparams"/>
+  <property name="kdenlive:docproperties.generateimageproxy">0</property>
+  <property name="kdenlive:docproperties.generateproxy">0</property>
+  <property name="kdenlive:docproperties.groups">[
+    {
+        "children": [
+            {
+                "data": "1:6080",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:6080",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "AVSplit"
+    },
+    {
+        "children": [
+            {
+                "data": "2:5928",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:5928",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "AVSplit"
+    },
+    {
+        "children": [
+            {
+                "data": "3:0",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:0",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "1:5518",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:5518",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "AVSplit"
+    },
+    {
+        "children": [
+            {
+                "data": "2:48",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:48",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "AVSplit"
+    },
+    {
+        "children": [
+            {
+                "data": "1:608",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:608",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "AVSplit"
+    },
+    {
+        "children": [
+            {
+                "data": "2:2598",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:2598",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "AVSplit"
+    },
+    {
+        "children": [
+            {
+                "data": "2:3104",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:3104",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "AVSplit"
+    }
+]
+</property>
+  <property name="kdenlive:docproperties.kdenliveversion">21.12.1</property>
+  <property name="kdenlive:docproperties.position">5866</property>
+  <property name="kdenlive:docproperties.previewextension"/>
+  <property name="kdenlive:docproperties.previewparameters"/>
+  <property name="kdenlive:docproperties.profile">C:/Users/torre/AppData/Roaming/kdenlive/profiles/customprofile0</property>
+  <property name="kdenlive:docproperties.proxyextension"/>
+  <property name="kdenlive:docproperties.proxyimageminsize">2000</property>
+  <property name="kdenlive:docproperties.proxyimagesize">800</property>
+  <property name="kdenlive:docproperties.proxyminsize">1000</property>
+  <property name="kdenlive:docproperties.proxyparams"/>
+  <property name="kdenlive:docproperties.proxyresize">640</property>
+  <property name="kdenlive:docproperties.scrollPos">0</property>
+  <property name="kdenlive:docproperties.seekOffset">30000</property>
+  <property name="kdenlive:docproperties.version">1.04</property>
+  <property name="kdenlive:docproperties.verticalzoom">1</property>
+  <property name="kdenlive:docproperties.videoTarget">2</property>
+  <property name="kdenlive:docproperties.zonein">0</property>
+  <property name="kdenlive:docproperties.zoneout">75</property>
+  <property name="kdenlive:docproperties.zoom">8</property>
+  <property name="kdenlive:expandedFolders"/>
+  <property name="kdenlive:documentnotes"/>
+  <property name="kdenlive:docproperties.renderaudioquality">192</property>
+  <property name="kdenlive:docproperties.rendercategory">Generic (HD for web, mobile devices...)</property>
+  <property name="kdenlive:docproperties.renderendguide">-1</property>
+  <property name="kdenlive:docproperties.renderexportaudio">0</property>
+  <property name="kdenlive:docproperties.renderfield">0</property>
+  <property name="kdenlive:docproperties.renderguide">0</property>
+  <property name="kdenlive:docproperties.renderplay">0</property>
+  <property name="kdenlive:docproperties.renderprofile">MP4-H264/AAC</property>
+  <property name="kdenlive:docproperties.renderquality">23</property>
+  <property name="kdenlive:docproperties.renderratio">1</property>
+  <property name="kdenlive:docproperties.renderrescale">0</property>
+  <property name="kdenlive:docproperties.renderrescaleheight">480</property>
+  <property name="kdenlive:docproperties.renderrescalewidth">948</property>
+  <property name="kdenlive:docproperties.renderscanning">0</property>
+  <property name="kdenlive:docproperties.renderspeed">2</property>
+  <property name="kdenlive:docproperties.renderstartguide">-1</property>
+  <property name="kdenlive:docproperties.rendertcoverlay">0</property>
+  <property name="kdenlive:docproperties.rendertctype">0</property>
+  <property name="kdenlive:docproperties.rendertwopass">0</property>
+  <property name="kdenlive:docproperties.renderurl">C:/Users/torre/Videos/wersja2.mp4</property>
+  <property name="kdenlive:docproperties.renderzone">0</property>
+  <property name="xml_retain">1</property>
+  <entry producer="producer0" in="00:00:00.000" out="00:01:40.542"/>
+  <entry producer="producer1" in="00:00:00.000" out="00:01:07.208"/>
+  <entry producer="producer2" in="00:00:00.000" out="00:01:06.375"/>
+  <entry producer="producer3" in="00:00:00.000" out="00:02:00.042"/>
+  <entry producer="producer4" in="00:00:00.000" out="00:02:04.375"/>
+  <entry producer="producer5" in="00:00:00.000" out="00:00:16.375"/>
+  <entry producer="producer6" in="00:00:00.000" out="00:00:16.792"/>
+  <entry producer="producer7" in="00:00:00.000" out="00:00:19.042"/>
+  <entry producer="producer8" in="00:00:00.000" out="00:00:04.958"/>
+  <entry producer="producer9" in="00:00:00.000" out="00:00:04.958"/>
+  <entry producer="producer10" in="00:00:00.000" out="00:00:04.958"/>
+  <entry producer="producer11" in="00:00:00.000" out="00:00:04.958"/>
+  <entry producer="producer12" in="00:00:00.000" out="00:00:04.958"/>
+ </playlist>
+ <producer id="black_track" in="00:00:00.000" out="00:25:48.292">
+  <property name="length">2147483647</property>
+  <property name="eof">continue</property>
+  <property name="resource">black</property>
+  <property name="aspect_ratio">1</property>
+  <property name="mlt_service">color</property>
+  <property name="mlt_image_format">rgb24a</property>
+  <property name="set.test_audio">0</property>
+ </producer>
+ <playlist id="playlist0">
+  <property name="kdenlive:audio_track">1</property>
+ </playlist>
+ <playlist id="playlist1">
+  <property name="kdenlive:audio_track">1</property>
+ </playlist>
+ <tractor id="tractor0" in="00:00:00.000">
+  <property name="kdenlive:audio_track">1</property>
+  <property name="kdenlive:trackheight">67</property>
+  <property name="kdenlive:timeline_active">1</property>
+  <property name="kdenlive:collapsed">0</property>
+  <property name="kdenlive:thumbs_format"/>
+  <property name="kdenlive:audio_rec"/>
+  <track hide="video" producer="playlist0"/>
+  <track hide="video" producer="playlist1"/>
+  <filter id="filter0">
+   <property name="window">75</property>
+   <property name="max_gain">20dB</property>
+   <property name="mlt_service">volume</property>
+   <property name="internal_added">237</property>
+   <property name="disable">1</property>
+  </filter>
+  <filter id="filter1">
+   <property name="channel">-1</property>
+   <property name="mlt_service">panner</property>
+   <property name="internal_added">237</property>
+   <property name="start">0.5</property>
+   <property name="disable">1</property>
+  </filter>
+  <filter id="filter2">
+   <property name="iec_scale">0</property>
+   <property name="mlt_service">audiolevel</property>
+   <property name="disable">1</property>
+  </filter>
+ </tractor>
+ <producer id="producer13" in="00:00:00.000" out="00:02:04.375">
+  <property name="length">2986</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/torre/Desktop/praca_inzynierska_all/prezentacja na obronę/nagrania/nowe/glosowanie_cd.mkv</property>
+  <property name="audio_index">1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="seekable">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">6</property>
+  <property name="kdenlive:file_size">7245225</property>
+  <property name="kdenlive:file_hash">a798a8c083eb96ffc11578ab1cc059dc</property>
+  <property name="kdenlive:audio_max1">1</property>
+  <property name="kdenlive:markers">[
+    {
+        "comment": "Marker",
+        "pos": 741,
+        "type": 0
+    }
+]
+</property>
+  <property name="xml">was here</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">24</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">0</property>
+  <property name="meta.media.0.codec.width">1894</property>
+  <property name="meta.media.0.codec.height">960</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">0</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">0</property>
+  <property name="meta.attr.0.stream.ENCODER.markup">Lavc58.134.100 libx264</property>
+  <property name="meta.attr.0.stream.DURATION.markup">00:02:04.418000000</property>
+  <property name="meta.media.1.stream.type">audio</property>
+  <property name="meta.media.1.codec.sample_fmt">fltp</property>
+  <property name="meta.media.1.codec.sample_rate">48000</property>
+  <property name="meta.media.1.codec.channels">1</property>
+  <property name="meta.media.1.codec.name">aac</property>
+  <property name="meta.media.1.codec.long_name">AAC (Advanced Audio Coding)</property>
+  <property name="meta.media.1.codec.bit_rate">0</property>
+  <property name="meta.attr.1.stream.ENCODER.markup">Lavc58.134.100 libfdk_aac</property>
+  <property name="meta.attr.1.stream.DURATION.markup">00:02:04.373000000</property>
+  <property name="meta.attr.COPYRIGHT.markup">iSpringSolutions</property>
+  <property name="meta.attr.ENCODER.markup">Lavf58.76.100</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="meta.media.frame_rate_num">24</property>
+  <property name="meta.media.frame_rate_den">1</property>
+  <property name="meta.media.colorspace">709</property>
+  <property name="meta.media.color_trc">2</property>
+  <property name="meta.media.has_b_frames">2</property>
+  <property name="meta.media.width">1894</property>
+  <property name="meta.media.height">960</property>
+  <property name="meta.media.color_range">mpeg</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="set.test_audio">0</property>
+  <property name="set.test_image">1</property>
+ </producer>
+ <producer id="producer14" in="00:00:00.000" out="00:00:19.042">
+  <property name="length">458</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/torre/Desktop/praca_inzynierska_all/prezentacja na obronę/nagrania/nowe/wykres.mkv</property>
+  <property name="audio_index">1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="seekable">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">9</property>
+  <property name="kdenlive:file_size">2589590</property>
+  <property name="kdenlive:file_hash">414894deca6e991e67b6d4bb2f3222f6</property>
+  <property name="kdenlive:audio_max1">1</property>
+  <property name="xml">was here</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">24</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">0</property>
+  <property name="meta.media.0.codec.width">1896</property>
+  <property name="meta.media.0.codec.height">962</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">0</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">0</property>
+  <property name="meta.attr.0.stream.ENCODER.markup">Lavc58.134.100 libx264</property>
+  <property name="meta.attr.0.stream.DURATION.markup">00:00:19.063000000</property>
+  <property name="meta.media.1.stream.type">audio</property>
+  <property name="meta.media.1.codec.sample_fmt">fltp</property>
+  <property name="meta.media.1.codec.sample_rate">48000</property>
+  <property name="meta.media.1.codec.channels">1</property>
+  <property name="meta.media.1.codec.name">aac</property>
+  <property name="meta.media.1.codec.long_name">AAC (Advanced Audio Coding)</property>
+  <property name="meta.media.1.codec.bit_rate">0</property>
+  <property name="meta.attr.1.stream.ENCODER.markup">Lavc58.134.100 aac</property>
+  <property name="meta.attr.1.stream.DURATION.markup">00:00:19.050000000</property>
+  <property name="meta.attr.COPYRIGHT.markup">iSpringSolutions</property>
+  <property name="meta.attr.ENCODER.markup">Lavf58.76.100</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="meta.media.frame_rate_num">24</property>
+  <property name="meta.media.frame_rate_den">1</property>
+  <property name="meta.media.colorspace">709</property>
+  <property name="meta.media.color_trc">2</property>
+  <property name="meta.media.has_b_frames">2</property>
+  <property name="meta.media.width">1896</property>
+  <property name="meta.media.height">962</property>
+  <property name="meta.media.color_range">mpeg</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="set.test_audio">0</property>
+  <property name="set.test_image">1</property>
+ </producer>
+ <producer id="producer15" in="00:00:00.000" out="00:01:40.542">
+  <property name="length">2414</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/torre/Desktop/praca_inzynierska_all/prezentacja na obronę/nagrania/nowe/admin_cz1.mkv</property>
+  <property name="audio_index">1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="seekable">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">2</property>
+  <property name="kdenlive:file_size">4356638</property>
+  <property name="kdenlive:file_hash">b611a571a6c86024839c073d4a42f70f</property>
+  <property name="kdenlive:audio_max1">1</property>
+  <property name="xml">was here</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">24</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">0</property>
+  <property name="meta.media.0.codec.width">1896</property>
+  <property name="meta.media.0.codec.height">960</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">0</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">0</property>
+  <property name="meta.attr.0.stream.ENCODER.markup">Lavc58.134.100 libx264</property>
+  <property name="meta.attr.0.stream.DURATION.markup">00:01:40.585000000</property>
+  <property name="meta.media.1.stream.type">audio</property>
+  <property name="meta.media.1.codec.sample_fmt">fltp</property>
+  <property name="meta.media.1.codec.sample_rate">48000</property>
+  <property name="meta.media.1.codec.channels">1</property>
+  <property name="meta.media.1.codec.name">aac</property>
+  <property name="meta.media.1.codec.long_name">AAC (Advanced Audio Coding)</property>
+  <property name="meta.media.1.codec.bit_rate">0</property>
+  <property name="meta.attr.1.stream.ENCODER.markup">Lavc58.134.100 libfdk_aac</property>
+  <property name="meta.attr.1.stream.DURATION.markup">00:01:40.565000000</property>
+  <property name="meta.attr.COPYRIGHT.markup">iSpringSolutions</property>
+  <property name="meta.attr.ENCODER.markup">Lavf58.76.100</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="meta.media.frame_rate_num">24</property>
+  <property name="meta.media.frame_rate_den">1</property>
+  <property name="meta.media.colorspace">709</property>
+  <property name="meta.media.color_trc">2</property>
+  <property name="meta.media.has_b_frames">2</property>
+  <property name="meta.media.width">1896</property>
+  <property name="meta.media.height">960</property>
+  <property name="meta.media.color_range">mpeg</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="set.test_audio">0</property>
+  <property name="set.test_image">1</property>
+ </producer>
+ <producer id="producer16" in="00:00:00.000" out="00:01:07.208">
+  <property name="length">1614</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/torre/Desktop/praca_inzynierska_all/prezentacja na obronę/nagrania/nowe/admin_cz2.mkv</property>
+  <property name="audio_index">1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="seekable">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">3</property>
+  <property name="kdenlive:file_size">4600949</property>
+  <property name="kdenlive:file_hash">830dd92abde8b4d985d63c8fe1932bcc</property>
+  <property name="kdenlive:audio_max1">1</property>
+  <property name="kdenlive:markers">[
+    {
+        "comment": "koniec fragmentu który zostaje",
+        "pos": 1080,
+        "type": 0
+    },
+    {
+        "comment": "początek fragmentu który zostaje",
+        "pos": 567,
+        "type": 0
+    }
+]
+</property>
+  <property name="xml">was here</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">24</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">0</property>
+  <property name="meta.media.0.codec.width">1894</property>
+  <property name="meta.media.0.codec.height">960</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">0</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">0</property>
+  <property name="meta.attr.0.stream.ENCODER.markup">Lavc58.134.100 libx264</property>
+  <property name="meta.attr.0.stream.DURATION.markup">00:01:07.252000000</property>
+  <property name="meta.media.1.stream.type">audio</property>
+  <property name="meta.media.1.codec.sample_fmt">fltp</property>
+  <property name="meta.media.1.codec.sample_rate">48000</property>
+  <property name="meta.media.1.codec.channels">1</property>
+  <property name="meta.media.1.codec.name">aac</property>
+  <property name="meta.media.1.codec.long_name">AAC (Advanced Audio Coding)</property>
+  <property name="meta.media.1.codec.bit_rate">0</property>
+  <property name="meta.attr.1.stream.ENCODER.markup">Lavc58.134.100 libfdk_aac</property>
+  <property name="meta.attr.1.stream.DURATION.markup">00:01:07.242000000</property>
+  <property name="meta.attr.COPYRIGHT.markup">iSpringSolutions</property>
+  <property name="meta.attr.ENCODER.markup">Lavf58.76.100</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="meta.media.frame_rate_num">24</property>
+  <property name="meta.media.frame_rate_den">1</property>
+  <property name="meta.media.colorspace">709</property>
+  <property name="meta.media.color_trc">2</property>
+  <property name="meta.media.has_b_frames">2</property>
+  <property name="meta.media.width">1894</property>
+  <property name="meta.media.height">960</property>
+  <property name="meta.media.color_range">mpeg</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="set.test_audio">0</property>
+  <property name="set.test_image">1</property>
+ </producer>
+ <producer id="producer17" in="00:00:00.000" out="00:01:06.375">
+  <property name="length">1594</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/torre/Desktop/praca_inzynierska_all/prezentacja na obronę/nagrania/nowe/admin_cz3.mkv</property>
+  <property name="audio_index">1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="seekable">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">4</property>
+  <property name="kdenlive:file_size">4186294</property>
+  <property name="kdenlive:file_hash">102da62cbc7b57f868b322203a9c6ce7</property>
+  <property name="kdenlive:audio_max1">1</property>
+  <property name="kdenlive:markers">[
+    {
+        "comment": "Marker",
+        "pos": 515,
+        "type": 0
+    }
+]
+</property>
+  <property name="xml">was here</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">24</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">0</property>
+  <property name="meta.media.0.codec.width">1894</property>
+  <property name="meta.media.0.codec.height">960</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">0</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">0</property>
+  <property name="meta.attr.0.stream.ENCODER.markup">Lavc58.134.100 libx264</property>
+  <property name="meta.attr.0.stream.DURATION.markup">00:01:06.418000000</property>
+  <property name="meta.media.1.stream.type">audio</property>
+  <property name="meta.media.1.codec.sample_fmt">fltp</property>
+  <property name="meta.media.1.codec.sample_rate">48000</property>
+  <property name="meta.media.1.codec.channels">1</property>
+  <property name="meta.media.1.codec.name">aac</property>
+  <property name="meta.media.1.codec.long_name">AAC (Advanced Audio Coding)</property>
+  <property name="meta.media.1.codec.bit_rate">0</property>
+  <property name="meta.attr.1.stream.ENCODER.markup">Lavc58.134.100 libfdk_aac</property>
+  <property name="meta.attr.1.stream.DURATION.markup">00:01:06.389000000</property>
+  <property name="meta.attr.COPYRIGHT.markup">iSpringSolutions</property>
+  <property name="meta.attr.ENCODER.markup">Lavf58.76.100</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="meta.media.frame_rate_num">24</property>
+  <property name="meta.media.frame_rate_den">1</property>
+  <property name="meta.media.colorspace">709</property>
+  <property name="meta.media.color_trc">2</property>
+  <property name="meta.media.has_b_frames">2</property>
+  <property name="meta.media.width">1894</property>
+  <property name="meta.media.height">960</property>
+  <property name="meta.media.color_range">mpeg</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="set.test_audio">0</property>
+  <property name="set.test_image">1</property>
+ </producer>
+ <playlist id="playlist2">
+  <property name="kdenlive:audio_track">1</property>
+  <blank length="00:00:02.000"/>
+  <entry producer="producer13" in="00:00:00.000" out="00:00:23.292">
+   <property name="kdenlive:id">6</property>
+  </entry>
+  <entry producer="producer13" in="00:00:38.083" out="00:01:58.958">
+   <property name="kdenlive:id">6</property>
+  </entry>
+  <blank length="00:00:02.000"/>
+  <entry producer="producer14" in="00:00:00.000" out="00:00:19.042">
+   <property name="kdenlive:id">9</property>
+  </entry>
+  <blank length="00:00:02.000"/>
+  <entry producer="producer15" in="00:00:00.000" out="00:01:40.542">
+   <property name="kdenlive:id">2</property>
+  </entry>
+  <entry producer="producer16" in="00:00:23.583" out="00:00:40.625">
+   <property name="kdenlive:id">3</property>
+  </entry>
+  <entry producer="producer16" in="00:00:40.667" out="00:00:44.958">
+   <property name="kdenlive:id">3</property>
+  </entry>
+  <blank length="00:00:02.000"/>
+  <entry producer="producer17" in="00:00:21.458" out="00:01:06.375">
+   <property name="kdenlive:id">4</property>
+  </entry>
+ </playlist>
+ <playlist id="playlist3">
+  <property name="kdenlive:audio_track">1</property>
+ </playlist>
+ <tractor id="tractor1" in="00:00:00.000" out="00:04:58.250">
+  <property name="kdenlive:audio_track">1</property>
+  <property name="kdenlive:trackheight">67</property>
+  <property name="kdenlive:timeline_active">1</property>
+  <property name="kdenlive:collapsed">0</property>
+  <property name="kdenlive:thumbs_format"/>
+  <property name="kdenlive:audio_rec"/>
+  <track hide="video" producer="playlist2"/>
+  <track hide="video" producer="playlist3"/>
+  <filter id="filter3">
+   <property name="window">75</property>
+   <property name="max_gain">20dB</property>
+   <property name="mlt_service">volume</property>
+   <property name="internal_added">237</property>
+   <property name="disable">1</property>
+  </filter>
+  <filter id="filter4">
+   <property name="channel">-1</property>
+   <property name="mlt_service">panner</property>
+   <property name="internal_added">237</property>
+   <property name="start">0.5</property>
+   <property name="disable">1</property>
+  </filter>
+  <filter id="filter5">
+   <property name="iec_scale">0</property>
+   <property name="mlt_service">audiolevel</property>
+   <property name="disable">1</property>
+  </filter>
+ </tractor>
+ <producer id="producer18" in="00:00:00.000" out="00:02:04.375">
+  <property name="length">2986</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/torre/Desktop/praca_inzynierska_all/prezentacja na obronę/nagrania/nowe/glosowanie_cd.mkv</property>
+  <property name="audio_index">1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="seekable">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">6</property>
+  <property name="kdenlive:file_size">7245225</property>
+  <property name="kdenlive:file_hash">a798a8c083eb96ffc11578ab1cc059dc</property>
+  <property name="kdenlive:audio_max1">1</property>
+  <property name="kdenlive:markers">[
+    {
+        "comment": "Marker",
+        "pos": 741,
+        "type": 0
+    }
+]
+</property>
+  <property name="xml">was here</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">24</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">0</property>
+  <property name="meta.media.0.codec.width">1894</property>
+  <property name="meta.media.0.codec.height">960</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">0</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">0</property>
+  <property name="meta.attr.0.stream.ENCODER.markup">Lavc58.134.100 libx264</property>
+  <property name="meta.attr.0.stream.DURATION.markup">00:02:04.418000000</property>
+  <property name="meta.media.1.stream.type">audio</property>
+  <property name="meta.media.1.codec.sample_fmt">fltp</property>
+  <property name="meta.media.1.codec.sample_rate">48000</property>
+  <property name="meta.media.1.codec.channels">1</property>
+  <property name="meta.media.1.codec.name">aac</property>
+  <property name="meta.media.1.codec.long_name">AAC (Advanced Audio Coding)</property>
+  <property name="meta.media.1.codec.bit_rate">0</property>
+  <property name="meta.attr.1.stream.ENCODER.markup">Lavc58.134.100 libfdk_aac</property>
+  <property name="meta.attr.1.stream.DURATION.markup">00:02:04.373000000</property>
+  <property name="meta.attr.COPYRIGHT.markup">iSpringSolutions</property>
+  <property name="meta.attr.ENCODER.markup">Lavf58.76.100</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="meta.media.frame_rate_num">24</property>
+  <property name="meta.media.frame_rate_den">1</property>
+  <property name="meta.media.colorspace">709</property>
+  <property name="meta.media.color_trc">2</property>
+  <property name="meta.media.has_b_frames">2</property>
+  <property name="meta.media.width">1894</property>
+  <property name="meta.media.height">960</property>
+  <property name="meta.media.color_range">mpeg</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="set.test_audio">1</property>
+  <property name="set.test_image">0</property>
+ </producer>
+ <producer id="producer19" in="00:00:00.000" out="00:00:19.042">
+  <property name="length">458</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/torre/Desktop/praca_inzynierska_all/prezentacja na obronę/nagrania/nowe/wykres.mkv</property>
+  <property name="audio_index">1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="seekable">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">9</property>
+  <property name="kdenlive:file_size">2589590</property>
+  <property name="kdenlive:file_hash">414894deca6e991e67b6d4bb2f3222f6</property>
+  <property name="kdenlive:audio_max1">1</property>
+  <property name="xml">was here</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">24</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">0</property>
+  <property name="meta.media.0.codec.width">1896</property>
+  <property name="meta.media.0.codec.height">962</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">0</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">0</property>
+  <property name="meta.attr.0.stream.ENCODER.markup">Lavc58.134.100 libx264</property>
+  <property name="meta.attr.0.stream.DURATION.markup">00:00:19.063000000</property>
+  <property name="meta.media.1.stream.type">audio</property>
+  <property name="meta.media.1.codec.sample_fmt">fltp</property>
+  <property name="meta.media.1.codec.sample_rate">48000</property>
+  <property name="meta.media.1.codec.channels">1</property>
+  <property name="meta.media.1.codec.name">aac</property>
+  <property name="meta.media.1.codec.long_name">AAC (Advanced Audio Coding)</property>
+  <property name="meta.media.1.codec.bit_rate">0</property>
+  <property name="meta.attr.1.stream.ENCODER.markup">Lavc58.134.100 aac</property>
+  <property name="meta.attr.1.stream.DURATION.markup">00:00:19.050000000</property>
+  <property name="meta.attr.COPYRIGHT.markup">iSpringSolutions</property>
+  <property name="meta.attr.ENCODER.markup">Lavf58.76.100</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="meta.media.frame_rate_num">24</property>
+  <property name="meta.media.frame_rate_den">1</property>
+  <property name="meta.media.colorspace">709</property>
+  <property name="meta.media.color_trc">2</property>
+  <property name="meta.media.has_b_frames">2</property>
+  <property name="meta.media.width">1896</property>
+  <property name="meta.media.height">962</property>
+  <property name="meta.media.color_range">mpeg</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="set.test_audio">1</property>
+  <property name="set.test_image">0</property>
+ </producer>
+ <producer id="producer20" in="00:00:00.000" out="00:01:40.542">
+  <property name="length">2414</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/torre/Desktop/praca_inzynierska_all/prezentacja na obronę/nagrania/nowe/admin_cz1.mkv</property>
+  <property name="audio_index">1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="seekable">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">2</property>
+  <property name="kdenlive:file_size">4356638</property>
+  <property name="kdenlive:file_hash">b611a571a6c86024839c073d4a42f70f</property>
+  <property name="kdenlive:audio_max1">1</property>
+  <property name="xml">was here</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">24</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">0</property>
+  <property name="meta.media.0.codec.width">1896</property>
+  <property name="meta.media.0.codec.height">960</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">0</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">0</property>
+  <property name="meta.attr.0.stream.ENCODER.markup">Lavc58.134.100 libx264</property>
+  <property name="meta.attr.0.stream.DURATION.markup">00:01:40.585000000</property>
+  <property name="meta.media.1.stream.type">audio</property>
+  <property name="meta.media.1.codec.sample_fmt">fltp</property>
+  <property name="meta.media.1.codec.sample_rate">48000</property>
+  <property name="meta.media.1.codec.channels">1</property>
+  <property name="meta.media.1.codec.name">aac</property>
+  <property name="meta.media.1.codec.long_name">AAC (Advanced Audio Coding)</property>
+  <property name="meta.media.1.codec.bit_rate">0</property>
+  <property name="meta.attr.1.stream.ENCODER.markup">Lavc58.134.100 libfdk_aac</property>
+  <property name="meta.attr.1.stream.DURATION.markup">00:01:40.565000000</property>
+  <property name="meta.attr.COPYRIGHT.markup">iSpringSolutions</property>
+  <property name="meta.attr.ENCODER.markup">Lavf58.76.100</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="meta.media.frame_rate_num">24</property>
+  <property name="meta.media.frame_rate_den">1</property>
+  <property name="meta.media.colorspace">709</property>
+  <property name="meta.media.color_trc">2</property>
+  <property name="meta.media.has_b_frames">2</property>
+  <property name="meta.media.width">1896</property>
+  <property name="meta.media.height">960</property>
+  <property name="meta.media.color_range">mpeg</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="set.test_audio">1</property>
+  <property name="set.test_image">0</property>
+ </producer>
+ <producer id="producer21" in="00:00:00.000" out="00:01:07.208">
+  <property name="length">1614</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/torre/Desktop/praca_inzynierska_all/prezentacja na obronę/nagrania/nowe/admin_cz2.mkv</property>
+  <property name="audio_index">1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="seekable">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">3</property>
+  <property name="kdenlive:file_size">4600949</property>
+  <property name="kdenlive:file_hash">830dd92abde8b4d985d63c8fe1932bcc</property>
+  <property name="kdenlive:audio_max1">1</property>
+  <property name="kdenlive:markers">[
+    {
+        "comment": "koniec fragmentu który zostaje",
+        "pos": 1080,
+        "type": 0
+    },
+    {
+        "comment": "początek fragmentu który zostaje",
+        "pos": 567,
+        "type": 0
+    }
+]
+</property>
+  <property name="xml">was here</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">24</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">0</property>
+  <property name="meta.media.0.codec.width">1894</property>
+  <property name="meta.media.0.codec.height">960</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">0</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">0</property>
+  <property name="meta.attr.0.stream.ENCODER.markup">Lavc58.134.100 libx264</property>
+  <property name="meta.attr.0.stream.DURATION.markup">00:01:07.252000000</property>
+  <property name="meta.media.1.stream.type">audio</property>
+  <property name="meta.media.1.codec.sample_fmt">fltp</property>
+  <property name="meta.media.1.codec.sample_rate">48000</property>
+  <property name="meta.media.1.codec.channels">1</property>
+  <property name="meta.media.1.codec.name">aac</property>
+  <property name="meta.media.1.codec.long_name">AAC (Advanced Audio Coding)</property>
+  <property name="meta.media.1.codec.bit_rate">0</property>
+  <property name="meta.attr.1.stream.ENCODER.markup">Lavc58.134.100 libfdk_aac</property>
+  <property name="meta.attr.1.stream.DURATION.markup">00:01:07.242000000</property>
+  <property name="meta.attr.COPYRIGHT.markup">iSpringSolutions</property>
+  <property name="meta.attr.ENCODER.markup">Lavf58.76.100</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="meta.media.frame_rate_num">24</property>
+  <property name="meta.media.frame_rate_den">1</property>
+  <property name="meta.media.colorspace">709</property>
+  <property name="meta.media.color_trc">2</property>
+  <property name="meta.media.has_b_frames">2</property>
+  <property name="meta.media.width">1894</property>
+  <property name="meta.media.height">960</property>
+  <property name="meta.media.color_range">mpeg</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="set.test_audio">1</property>
+  <property name="set.test_image">0</property>
+ </producer>
+ <producer id="producer22" in="00:00:00.000" out="00:01:07.208">
+  <property name="length">1614</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/torre/Desktop/praca_inzynierska_all/prezentacja na obronę/nagrania/nowe/admin_cz2.mkv</property>
+  <property name="audio_index">1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="seekable">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">3</property>
+  <property name="kdenlive:file_size">4600949</property>
+  <property name="kdenlive:file_hash">830dd92abde8b4d985d63c8fe1932bcc</property>
+  <property name="kdenlive:audio_max1">1</property>
+  <property name="kdenlive:markers">[
+]
+</property>
+  <property name="xml">was here</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">24</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">0</property>
+  <property name="meta.media.0.codec.width">1894</property>
+  <property name="meta.media.0.codec.height">960</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">0</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">0</property>
+  <property name="meta.attr.0.stream.ENCODER.markup">Lavc58.134.100 libx264</property>
+  <property name="meta.attr.0.stream.DURATION.markup">00:01:07.252000000</property>
+  <property name="meta.media.1.stream.type">audio</property>
+  <property name="meta.media.1.codec.sample_fmt">fltp</property>
+  <property name="meta.media.1.codec.sample_rate">48000</property>
+  <property name="meta.media.1.codec.channels">1</property>
+  <property name="meta.media.1.codec.name">aac</property>
+  <property name="meta.media.1.codec.long_name">AAC (Advanced Audio Coding)</property>
+  <property name="meta.media.1.codec.bit_rate">0</property>
+  <property name="meta.attr.1.stream.ENCODER.markup">Lavc58.134.100 libfdk_aac</property>
+  <property name="meta.attr.1.stream.DURATION.markup">00:01:07.242000000</property>
+  <property name="meta.attr.COPYRIGHT.markup">iSpringSolutions</property>
+  <property name="meta.attr.ENCODER.markup">Lavf58.76.100</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="meta.media.frame_rate_num">24</property>
+  <property name="meta.media.frame_rate_den">1</property>
+  <property name="meta.media.colorspace">709</property>
+  <property name="meta.media.color_trc">2</property>
+  <property name="meta.media.has_b_frames">2</property>
+  <property name="meta.media.width">1894</property>
+  <property name="meta.media.height">960</property>
+  <property name="meta.media.color_range">mpeg</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="set.test_audio">1</property>
+  <property name="set.test_image">0</property>
+ </producer>
+ <producer id="producer23" in="00:00:00.000" out="00:01:06.375">
+  <property name="length">1594</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/torre/Desktop/praca_inzynierska_all/prezentacja na obronę/nagrania/nowe/admin_cz3.mkv</property>
+  <property name="audio_index">1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="seekable">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">4</property>
+  <property name="kdenlive:file_size">4186294</property>
+  <property name="kdenlive:file_hash">102da62cbc7b57f868b322203a9c6ce7</property>
+  <property name="kdenlive:audio_max1">1</property>
+  <property name="kdenlive:markers">[
+    {
+        "comment": "Marker",
+        "pos": 515,
+        "type": 0
+    }
+]
+</property>
+  <property name="xml">was here</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">24</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">0</property>
+  <property name="meta.media.0.codec.width">1894</property>
+  <property name="meta.media.0.codec.height">960</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">0</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">0</property>
+  <property name="meta.attr.0.stream.ENCODER.markup">Lavc58.134.100 libx264</property>
+  <property name="meta.attr.0.stream.DURATION.markup">00:01:06.418000000</property>
+  <property name="meta.media.1.stream.type">audio</property>
+  <property name="meta.media.1.codec.sample_fmt">fltp</property>
+  <property name="meta.media.1.codec.sample_rate">48000</property>
+  <property name="meta.media.1.codec.channels">1</property>
+  <property name="meta.media.1.codec.name">aac</property>
+  <property name="meta.media.1.codec.long_name">AAC (Advanced Audio Coding)</property>
+  <property name="meta.media.1.codec.bit_rate">0</property>
+  <property name="meta.attr.1.stream.ENCODER.markup">Lavc58.134.100 libfdk_aac</property>
+  <property name="meta.attr.1.stream.DURATION.markup">00:01:06.389000000</property>
+  <property name="meta.attr.COPYRIGHT.markup">iSpringSolutions</property>
+  <property name="meta.attr.ENCODER.markup">Lavf58.76.100</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="meta.media.frame_rate_num">24</property>
+  <property name="meta.media.frame_rate_den">1</property>
+  <property name="meta.media.colorspace">709</property>
+  <property name="meta.media.color_trc">2</property>
+  <property name="meta.media.has_b_frames">2</property>
+  <property name="meta.media.width">1894</property>
+  <property name="meta.media.height">960</property>
+  <property name="meta.media.color_range">mpeg</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="set.test_audio">1</property>
+  <property name="set.test_image">0</property>
+ </producer>
+ <playlist id="playlist4">
+  <entry producer="producer9" in="00:00:00.000" out="00:00:01.958">
+   <property name="kdenlive:id">12</property>
+  </entry>
+  <entry producer="producer18" in="00:00:00.000" out="00:00:23.292">
+   <property name="kdenlive:id">6</property>
+  </entry>
+  <entry producer="producer18" in="00:00:38.083" out="00:01:58.958">
+   <property name="kdenlive:id">6</property>
+  </entry>
+  <entry producer="producer9" in="00:00:00.000" out="00:00:01.958">
+   <property name="kdenlive:id">12</property>
+  </entry>
+  <entry producer="producer19" in="00:00:00.000" out="00:00:19.042">
+   <property name="kdenlive:id">9</property>
+  </entry>
+  <entry producer="producer9" in="00:00:00.000" out="00:00:01.958">
+   <property name="kdenlive:id">12</property>
+  </entry>
+  <entry producer="producer20" in="00:00:00.000" out="00:01:40.542">
+   <property name="kdenlive:id">2</property>
+  </entry>
+  <entry producer="producer21" in="00:00:23.583" out="00:00:40.625">
+   <property name="kdenlive:id">3</property>
+  </entry>
+  <entry producer="producer22" in="00:00:40.667" out="00:00:44.958">
+   <property name="kdenlive:id">3</property>
+  </entry>
+  <entry producer="producer9" in="00:00:00.000" out="00:00:01.958">
+   <property name="kdenlive:id">12</property>
+  </entry>
+  <entry producer="producer23" in="00:00:21.458" out="00:01:06.375">
+   <property name="kdenlive:id">4</property>
+  </entry>
+ </playlist>
+ <playlist id="playlist5"/>
+ <tractor id="tractor2" in="00:00:00.000" out="00:04:58.250">
+  <property name="kdenlive:trackheight">67</property>
+  <property name="kdenlive:timeline_active">1</property>
+  <property name="kdenlive:collapsed">0</property>
+  <property name="kdenlive:thumbs_format"/>
+  <property name="kdenlive:audio_rec"/>
+  <track hide="audio" producer="playlist4"/>
+  <track hide="audio" producer="playlist5"/>
+ </tractor>
+ <playlist id="playlist6">
+  <entry producer="producer8" in="00:00:00.000" out="00:00:01.958">
+   <property name="kdenlive:id">11</property>
+  </entry>
+  <blank length="00:01:44.250"/>
+  <entry producer="producer10" in="00:00:00.000" out="00:00:01.958">
+   <property name="kdenlive:id">13</property>
+  </entry>
+  <blank length="00:00:19.083"/>
+  <entry producer="producer11" in="00:00:00.000" out="00:00:01.958">
+   <property name="kdenlive:id">14</property>
+  </entry>
+  <blank length="00:02:02.000"/>
+  <entry producer="producer12" in="00:00:00.000" out="00:00:01.958">
+   <property name="kdenlive:id">15</property>
+  </entry>
+ </playlist>
+ <playlist id="playlist7"/>
+ <tractor id="tractor3" in="00:00:00.000" out="00:04:13.292">
+  <property name="kdenlive:trackheight">67</property>
+  <property name="kdenlive:timeline_active">1</property>
+  <property name="kdenlive:collapsed">0</property>
+  <property name="kdenlive:thumbs_format"/>
+  <property name="kdenlive:audio_rec"/>
+  <track hide="audio" producer="playlist6"/>
+  <track hide="audio" producer="playlist7"/>
+ </tractor>
+ <tractor id="tractor4" in="00:00:00.000" out="00:25:48.292">
+  <track producer="black_track"/>
+  <track producer="tractor0"/>
+  <track producer="tractor1"/>
+  <track producer="tractor2"/>
+  <track producer="tractor3"/>
+  <transition id="transition0">
+   <property name="a_track">0</property>
+   <property name="b_track">1</property>
+   <property name="mlt_service">mix</property>
+   <property name="kdenlive_id">mix</property>
+   <property name="internal_added">237</property>
+   <property name="always_active">1</property>
+   <property name="accepts_blanks">1</property>
+   <property name="sum">1</property>
+  </transition>
+  <transition id="transition1">
+   <property name="a_track">0</property>
+   <property name="b_track">2</property>
+   <property name="mlt_service">mix</property>
+   <property name="kdenlive_id">mix</property>
+   <property name="internal_added">237</property>
+   <property name="always_active">1</property>
+   <property name="accepts_blanks">1</property>
+   <property name="sum">1</property>
+  </transition>
+  <transition id="transition2">
+   <property name="a_track">0</property>
+   <property name="b_track">3</property>
+   <property name="version">0.9</property>
+   <property name="mlt_service">frei0r.cairoblend</property>
+   <property name="kdenlive_id">frei0r.cairoblend</property>
+   <property name="internal_added">237</property>
+   <property name="always_active">1</property>
+  </transition>
+  <transition id="transition3">
+   <property name="a_track">0</property>
+   <property name="b_track">4</property>
+   <property name="version">0.9</property>
+   <property name="mlt_service">frei0r.cairoblend</property>
+   <property name="kdenlive_id">frei0r.cairoblend</property>
+   <property name="internal_added">237</property>
+   <property name="always_active">1</property>
+  </transition>
+  <filter id="filter6">
+   <property name="window">75</property>
+   <property name="max_gain">20dB</property>
+   <property name="mlt_service">volume</property>
+   <property name="internal_added">237</property>
+   <property name="disable">1</property>
+  </filter>
+  <filter id="filter7">
+   <property name="channel">-1</property>
+   <property name="mlt_service">panner</property>
+   <property name="internal_added">237</property>
+   <property name="start">0.5</property>
+   <property name="disable">1</property>
+  </filter>
+  <filter id="filter8">
+   <property name="iec_scale">0</property>
+   <property name="mlt_service">audiolevel</property>
+   <property name="disable">1</property>
+  </filter>
+ </tractor>
+</mlt>
